@@ -32,6 +32,28 @@ body {
   margin-left: 0;
 }
 
+.btn {
+  background-color: Transparent;
+  background-repeat:no-repeat;
+  border: none;
+  cursor:pointer;
+  overflow: hidden;
+  outline:none;
+  background-image: none;
+}
+
+button:focus {
+    border: none;
+    outline:none;
+}
+
+button:active {
+    border: none;
+    background-color: Transparent;
+    background-repeat:no-repeat;
+    outline:none;
+}
+
 @media (min-width: 768px) {
   #sidebar-wrapper {
     margin-left: 0;
