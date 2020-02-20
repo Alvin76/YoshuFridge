@@ -6,13 +6,79 @@
   </head>
   <body>
     <header></header>
-    <nav>
-      <a href="home.html">Home</a>
-      <a href="login.html">login</a>
-      <a href="recipies.html">recipies</a>
-      <a href="shopinglist.html">shoping list</a>
-      <a href="myinventory.html">my fridge</a>
-    </nav>
+    <div class="d-flex" id="wrapper">
+
+        <!-- Sidebar -->
+        <div class="bg-light border-right" id="sidebar-wrapper">
+          <div class="sidebar-heading">Fridge-o-Matic </div>
+          <div class="list-group list-group-flush">
+            <a href="#" class="list-group-item list-group-item-action bg-light">Home</a>
+            <a href="#" class="list-group-item list-group-item-action bg-light">Login</a>
+            <a href="#" class="list-group-item list-group-item-action bg-light">Inventory</a>
+            <a href="#" class="list-group-item list-group-item-action bg-light">Recipes</a>
+            <a href="#" class="list-group-item list-group-item-action bg-light">Shopping List</a>
+            <a href="#" class="list-group-item list-group-item-action bg-light">Other Page</a>
+          </div>
+        </div>
+        <!-- /#sidebar-wrapper -->
+
+        <!-- Page Content -->
+        <div id="page-content-wrapper">
+
+          <nav class="navbar navbar-expand-lg navbar-light bg-light border-bottom">
+            <button class="btn btn-primary" id="menu-toggle">Side Bar</button>
+
+            <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+              <span class="navbar-toggler-icon"></span>
+            </button>
+
+            <div class="collapse navbar-collapse" id="navbarSupportedContent">
+              <ul class="navbar-nav ml-auto mt-2 mt-lg-0">
+                <li class="nav-item active">
+                  <a class="nav-link" href="#">Home <span class="sr-only">(current)</span></a>
+                </li>
+                <li class="nav-item">
+                  <a class="nav-link" href="#">Recipes</a>
+                </li>
+                <li class="nav-item dropdown">
+                  <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                    Trending
+                  </a>
+                  <div class="dropdown-menu dropdown-menu-right" aria-labelledby="navbarDropdown">
+                    <a class="dropdown-item" href="#">In Season</a>
+                    <a class="dropdown-item" href="#">Protein Powered</a>
+                    <div class="dropdown-divider"></div>
+                    <a class="dropdown-item" href="#">Vegan Friendly</a>
+                  </div>
+                </li>
+              </ul>
+            </div>
+          </nav>
+
+          <div class="container-fluid">
+           <p>
+           <img class=" img-fluid" src="../IMGS/Kitchen.png" alt="alpacaAdam">
+           </p>
+          </div>
+        </div>
+        <!-- /#page-content-wrapper -->
+
+      </div>
+      <!-- /#wrapper -->
+
+      <!-- Bootstrap core JavaScript -->
+      <script src="vendor/jquery/jquery.min.js"></script>
+      <script src="vendor/bootstrap/js/bootstrap.bundle.min.js"></script>
+
+      <!-- Menu Toggle Script -->
+      <script>
+        $("#menu-toggle").click(function(e) {
+          e.preventDefault();
+          $("#wrapper").toggleClass("toggled");
+        });
+      </script>
+
+    </body>
     <main></main>
     <footer><small>&copy;<?php echo date('Y'); ?> Team Alpaca </small></footer>
   </body>
