@@ -5,7 +5,6 @@
     <title></title>
   </head>
   <body>
-    <header></header>
     <div class="bg-light border-right" id="sidebar-wrapper">
       <div class="sidebar-heading">Fridge-o-Matic </div>
       <div class="list-group list-group-flush">
@@ -35,7 +34,5 @@
           </ul>
       </div>
     </div>
-    <main></main>
-    <footer><small>&copy;<?php echo date('Y'); ?> Team Alpaca </small></footer>
   </body>
 </html>
