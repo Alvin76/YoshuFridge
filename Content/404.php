@@ -21,8 +21,6 @@
             Login/Sign Up</a>
           <a href="theTeam.php" class="list-group-item list-group-item-action bg-light"><img src="https://img.icons8.com/dusk/64/000000/open-source.png">
             The Team</a>
-          <a href="trending.php" class="list-group-item list-group-item-action bg-light"><img src="https://img.icons8.com/dusk/64/000000/open-source.png">
-            The Team</a>
             <a class="list-group-item list-group-item-action bg-light" href="" data-toggle="dropdown"><img src="https://img.icons8.com/dusk/64/000000/like.png">
               Trending<span class="caret"></span></a>
             <ul class="dropdown-menu">
