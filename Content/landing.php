@@ -381,7 +381,7 @@
   <script src="../JS/JQuery/easing.min.js"></script>
 
   <!-- Custom scripts -->
-  <script src="..JS/landing.min.js"></script>
+  <script src="../JS/landing.min.js"></script>
 
 </body>
 
