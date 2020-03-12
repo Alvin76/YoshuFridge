@@ -9,7 +9,7 @@
   <title>Welcome - Fridge-o-Matic</title>
 
   <!-- Bootstrap core CSS -->
-  <link href="../CSS/Bootsra/min.css" rel="stylesheet">
+  <link href="../CSS/Bootstrap/min.css" rel="stylesheet">
 
   <!-- Custom fonts -->
   <link href="../CSS/FA/all.min.css" rel="stylesheet" type="text/css">
