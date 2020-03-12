@@ -3,6 +3,11 @@ It has an epic name :D
 Also here is the website http://fridge-o-matic.com/
 Note: this is not automatic deploment!
 
+
+herokuapp
+http://yoshu-project.herokuapp.com/Content/home.php
+
+http://yoshu-project.herokuapp.com/Content/landing.php
 ~~~~~~~~
 Changes that is done so far on the website is it has an icon in the broser tab! :D
 ~~~~~~~~
