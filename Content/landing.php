@@ -56,7 +56,7 @@
       <div class="intro-text">
         <div class="intro-heading text-uppercase">Fridge-o-Matic</div>
         <div class="intro-lead-in">Assist the List</div>
-        <a class="btn btn-primary btn-xl text-uppercase js-scroll-trigger" href="#services">v</a>
+        <a class="btn btn-primary btn-xl text-uppercase js-scroll-trigger" href="#services"><i class="fas fa-angle-double-down"></i></a>
       </div>
     </div>
   </header>
@@ -224,7 +224,7 @@
             </li>
             <li class="timeline-inverted">
               <div class="timeline-image">
-                <h4>How 
+                <h4>How
                   <br>much time
                   <br>can you
                   <br>save!</h4>
