@@ -1,0 +1,34 @@
+header {
+  padding: 156px 0 100px;
+}
+
+section {
+  padding: 150px 0;
+}
+
+.nav-link
+{
+    color: #62a5a1;
+}
+
+.nav-items
+{
+    color: #62a5a1;
+}
+
+.navbar-light .navbar-nav .active>.nav-link
+{
+  color: #62a5a1;
+
+
+}
+
+.navbar-light .navbar-nav .nav-link
+{
+    color: #62a5a1;
+}
+
+a.navbar-brand.js-scroll-trigger
+{
+    color: #62a5a1;
+}
