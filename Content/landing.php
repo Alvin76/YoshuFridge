@@ -67,7 +67,7 @@
       <div class="row">
         <div class="col-lg-12 text-center">
           <h2 class="section-heading text-uppercase">Services</h2>
-          <h3 class="section-subheading text-muted">Lorem ipsum dolor sit amet consectetur.</h3>
+          <h3 class="section-subheading text-muted">The virtual fridge tool to help you get the most out of your meals!</h3>
         </div>
       </div>
       <div class="row text-center">
@@ -77,7 +77,7 @@
             <i class="fas fa-book-open fa-stack-1x fa-inverse"></i>
           </span>
           <h4 class="service-heading">Recipes</h4>
-          <p class="text-muted">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit.</p>
+          <p class="text-muted">Browse through delicious and clever recipes, you can save for rainy days. </p>
         </div>
         <div class="col-md-4">
           <span class="fa-stack fa-4x">
@@ -85,7 +85,7 @@
             <i class="fas fa-th-list fa-stack-1x fa-inverse"></i>
           </span>
           <h4 class="service-heading">Inventory</h4>
-          <p class="text-muted">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit.</p>
+          <p class="text-muted">Upload your physical fridge and pantry into our virtual kitchen, so we can track and manage your ingredients.</p>
         </div>
         <div class="col-md-4">
           <span class="fa-stack fa-4x">
@@ -93,7 +93,7 @@
            <i class="fas fa-shopping-cart fa-stack-1x fa-inverse"></i>
           </span>
           <h4 class="service-heading">Shopping</h4>
-          <p class="text-muted">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit.</p>
+          <p class="text-muted">Let Fridge-O-Matic scientifically generate your personalaized shopping list based on your ingredients and recipes planned for the week.</p>
         </div>
       </div>
     </div>
@@ -105,7 +105,7 @@
       <div class="row">
         <div class="col-lg-12 text-center">
           <h2 class="section-heading text-uppercase">Samples</h2>
-          <h3 class="section-subheading text-muted">Lorem ipsum dolor sit amet consectetur.</h3>
+          <h3 class="section-subheading text-muted">Peek at some of our recipe cards...</h3>
         </div>
       </div>
       <div class="row">
@@ -161,7 +161,7 @@
       <div class="row">
         <div class="col-lg-12 text-center">
           <h2 class="section-heading text-uppercase">About</h2>
-          <h3 class="section-subheading text-muted">Lorem ipsum dolor sit amet consectetur.</h3>
+          <h3 class="section-subheading text-muted">Our goal is to help reduce wasted ingredients and improve the effcientcy of your personal kitchen! How can you get started?</h3>
         </div>
       </div>
       <div class="row">
@@ -174,10 +174,10 @@
               <div class="timeline-panel">
                 <div class="timeline-heading">
                   <h4>Recipes</h4>
-                  <a href="#"><h4 class="subheading">Click Here</h4></a>
+                  <a href="#"><h4 class="subheading">Search Now!</h4></a>
                 </div>
                 <div class="timeline-body">
-                  <p class="text-muted">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sunt ut voluptatum eius sapiente, totam reiciendis temporibus qui quibusdam, recusandae sit vero unde, sed, incidunt et ea quo dolore laudantium consectetur!</p>
+                  <p class="text-muted">Search and save recipes as you explore. Plan for the comming week or just for tonight! If you dont see something you like upload your own personal recipes to refer back to when you plan. </p>
                 </div>
               </div>
             </li>
@@ -191,7 +191,7 @@
                   <a href="#"><h4 class="subheading">Click Here</h4></a>
                 </div>
                 <div class="timeline-body">
-                  <p class="text-muted">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sunt ut voluptatum eius sapiente, totam reiciendis temporibus qui quibusdam, recusandae sit vero unde, sed, incidunt et ea quo dolore laudantium consectetur!</p>
+                  <p class="text-muted">Upload your fridge contents for your inital profile. From there we rummage and optimizes your ingredients and can even suggest dishes based on whats in YOUR cupboard.</p>
                 </div>
               </div>
             </li>
@@ -205,7 +205,7 @@
                   <a href="#"><h4 class="subheading">Click Here</h4></a>
                 </div>
                 <div class="timeline-body">
-                  <p class="text-muted">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sunt ut voluptatum eius sapiente, totam reiciendis temporibus qui quibusdam, recusandae sit vero unde, sed, incidunt et ea quo dolore laudantium consectetur!</p>
+                  <p class="text-muted">Combining the hard recipe planning you did and the virtial contents of your fridge, we create a personalized shopping list tp offer a peace of mind at the market. No forgot ingredients and non need for extra trips to the store! </p>
                 </div>
               </div>
             </li>
@@ -224,9 +224,10 @@
             </li>
             <li class="timeline-inverted">
               <div class="timeline-image">
-                <h4>Get
-                  <br>Started
-                  <br>Today!</h4>
+                <h4>How 
+                  <br>much time
+                  <br>can you
+                  <br>save!</h4>
               </div>
             </li>
           </ul>
