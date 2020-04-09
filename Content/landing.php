@@ -174,7 +174,7 @@
               <div class="timeline-panel">
                 <div class="timeline-heading">
                   <h4>Recipes</h4>
-                  <a href="#"><h4 class="subheading">Search Now!</h4></a>
+                  <a href="recipes.php"><h4 class="subheading">Search Now!</h4></a>
                 </div>
                 <div class="timeline-body">
                   <p class="text-muted">Search and save recipes as you explore. Plan for the comming week or just for tonight! If you dont see something you like upload your own personal recipes to refer back to when you plan. </p>
