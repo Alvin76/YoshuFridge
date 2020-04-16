@@ -99,7 +99,7 @@
         <div class="col-lg-12 mx-auto">
          <h2 class="section-heading text-uppercase">Pantry</h2>
           <h3 class="section-subheading text-muted">Your Pantry!</h3>
-          <div class="pantrySearch">
+          <div class="PantrySearch">
             <p>add a item here</p>
             <p>
               <img src="https://user-images.githubusercontent.com/1689831/30980929-fe6d2e0a-a482-11e7-8b1c-4847190e3e4f.gif">
