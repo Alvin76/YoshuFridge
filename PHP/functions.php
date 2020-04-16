@@ -103,7 +103,7 @@ function page_content()
 
  /* <?php x = gettimeofday() ?> */
 /*!!!!! YO this is to log into the SQl Data base */
-/** The name of the database for WordPress */
+/** The name of the database for phpcalles */
 define('DB_NAME', 'kbzersix_YoshuFridge');
 
 /** MySQL database username */
