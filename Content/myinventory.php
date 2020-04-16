@@ -93,7 +93,7 @@
     </div>
   </section>
 
-  <section class="page-section">
+  <section class="page-section" id="pantry">
     <div class="container">
       <div class="row">
         <div class="col-lg-12 mx-auto">
