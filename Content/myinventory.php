@@ -57,7 +57,7 @@
   <section class="page-section" id="fridge">
     <div class="container">
       <div class="row">
-        <div class="col-lg-8 mx-auto">
+        <div class="col-lg-12 mx-auto">
             <h2 class="section-heading text-uppercase">Fridge</h2>
           <h3 class="section-subheading text-muted">Your Refrigerator!</h3>
           <!--Add a serch call here for items in the database-->
@@ -77,7 +77,7 @@
   <section class="page-section" id="freezer">
     <div class="container">
       <div class="row">
-        <div class="col-lg-8 mx-auto">
+        <div class="col-lg-12 mx-auto">
             <h2 class="section-heading text-uppercase">Freezer</h2>
           <h3 class="section-subheading text-muted">Your Freezer!</h3>
           <div class="FrezerSearch">
@@ -96,7 +96,7 @@
   <section class="page-section">
     <div class="container">
       <div class="row">
-        <div class="col-lg-8 mx-auto">
+        <div class="col-lg-12 mx-auto">
          <h2 class="section-heading text-uppercase">Pantry</h2>
           <h3 class="section-subheading text-muted">Your Pantry!</h3>
           <div class="pantrySearch">
@@ -124,6 +124,7 @@
   <!-- Custom scripts -->
   <script src="../JS/landing.min.js"></script>
 </body>
+
 
 
 </html>
