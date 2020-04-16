@@ -35,7 +35,7 @@
             <a class="nav-link js-scroll-trigger" href="home.php">Home</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link js-scroll-trigger" href="recipe.php">Recipes</a>
+            <a class="nav-link js-scroll-trigger" href="recipes.php">Recipes</a>
           </li>
           <li class="nav-item">
             <a class="nav-link js-scroll-trigger" href="shopinglist.php">Shopping List</a>
