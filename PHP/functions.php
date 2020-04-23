@@ -118,4 +118,22 @@ define('DB_HOST', 'localhost');
 //or die ('I cannot connect to the database.');
 //mysql_select_db ("cpUsername_dbName")
 
+//mary added
+//probably doing this all wrong
+$servername = "kbzersix_YoshuFridge";
+$username= "kbzersix_System";
+$password = "H$3^*#YjeR.W";
+//local host?
+
+$portnumber = 21
+//trying to create connection i think
+$conn = new mysqli($servername, $username, $password);
+
+//checking the connection *shrugs*
+if ($conn -> connect_error) {
+    die("Mary was bad:". $conn->connect_error);
+}
+echo "Connected sucessfully";
+
+
 ?>
