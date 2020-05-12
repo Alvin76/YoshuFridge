@@ -35,7 +35,7 @@
               <a class="nav-link js-scroll-trigger" href="myinventory.php">Inventory</a>
             </li>
             <li class="nav-item">
-              <a class="nav-link js-scroll-trigger" href="shopinglist.php">Shopping List</a>
+              <a class="nav-link js-scroll-trigger" href="myinventory.php#shopping">Shopping List</a>
             </li>
           </ul>
         </div>

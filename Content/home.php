@@ -202,7 +202,7 @@
               <div class="timeline-panel">
                 <div class="timeline-heading">
                   <h4>Shopping List</h4>
-                  <a href="shopinglist.php"><h4 class="subheading">Click Here</h4></a>
+                  <a href="myinventory.php#shopping"><h4 class="subheading">Click Here</h4></a>
                 </div>
                 <div class="timeline-body">
                   <p class="text-muted">Combining the hard recipe planning you did and the virtial contents of your fridge, we create a personalized shopping list tp offer a peace of mind at the market. No forgot ingredients and non need for extra trips to the store! </p>
