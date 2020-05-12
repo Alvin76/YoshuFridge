@@ -64,7 +64,7 @@
         while($rows = mysql_fetch_assoc($result))
         {
     ?>
-            <?php echo $rows['item_name'];?>
+           <h2> <?php echo $rows['item_name'];?> </h2>
         
 
   <?php
