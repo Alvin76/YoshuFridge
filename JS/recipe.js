@@ -35,7 +35,7 @@
     }
   };
   // Collapse now if page is not at top
-//Removing to test js on this page  navbarCollapse();
+  navbarCollapse();
   // Collapse the navbar when page is scrolled
   $(window).scroll(navbarCollapse);
 
