@@ -222,10 +222,26 @@
                     <img class="img-fluid d-block mx-auto" src="http://fridge-o-matic.com/Images/cajun-chicken-and-shrimp.jpg" alt="">
                     <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Est blanditiis dolorem culpa incidunt minus dignissimos deserunt repellat aperiam quasi sunt officia expedita beatae cupiditate, maiores repudiandae, nostrum, reiciendis facere nemo!</p>
                     <ul class="list-inline">
-                      <li>Chicken</li>
-                      <li>Shrimp</li>
-                      <li>Rice</li>
-                      <li>Cajun Seasoning</li>
+                      <li>1 tablespoon olive oil</li>
+                      <li>1 tablespoon garlic, minced</li>
+                      <li>2/3 cup (white) onion, diced</li>
+                      <li>1 green bell pepper, diced</li>
+                      <li>2 celery stalks, diced</li>
+                        <li>2 celery stalks, diced</li>
+                        <li>1 tablespoon smoked paprika</li>
+                        <li>1 teaspoon cayenne (or less depending on your heat preferences)</li>
+                        <li>1 teaspoon turmeric (optional)</li>
+                        <li>2 teaspoons dried oregano</li>
+                        <li>5 cups cooked brown rice</li>
+                        <li>1 can (14.5 oz) no-salt-added diced tomatoes</li>
+                        <li>18oz water (TIP: use the tomato can for measurement so it should be 1 1/2 cans)</li>
+                        <li>5 tablespoons tomato paste (Substitute: tomato sauce)</li>
+                        <li>3/4 lb raw jumbo shrimp</li>
+                        <li>2 bay leaves (optional)</li>
+                        <li>sea salt & pepper to taste</li>
+
+
+
                     </ul>
                     <button class="btn btn-primary" data-dismiss="modal" type="button">
                       <i class="fas fa-times"></i>
