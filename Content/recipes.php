@@ -188,9 +188,10 @@
                     <img class="img-fluid d-block mx-auto" src="http://fridge-o-matic.com/Images/black-bean-quesadilla.jpg" alt="">
                     <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Est blanditiis dolorem culpa incidunt minus dignissimos deserunt repellat aperiam quasi sunt officia expedita beatae cupiditate, maiores repudiandae, nostrum, reiciendis facere nemo!</p>
                     <ul class="list-inline">
-                      <li>Black Beans</li>
-                      <li>Cheese</li>
-                      <li>Sauce</li>
+                      <li>Spray avacado oil</li>
+                      <li>1 green bell pepper, sliced</li>
+                      <li>1 red bell pepper, sliced</li>
+                      <li>juice from 1 lime</li>
                     </ul>
                     <button class="btn btn-primary" data-dismiss="modal" type="button">
                       <i class="fas fa-times"></i>
