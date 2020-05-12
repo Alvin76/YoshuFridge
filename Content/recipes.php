@@ -152,7 +152,7 @@
                     <h2 class="text-uppercase">Teriyaki Salmon Fried Rice</h2>
                     <p class="item-intro text-muted">This is a winner winner SALMON dinner!.</p>
                     <img class="img-fluid d-block mx-auto" src="http://fridge-o-matic.com/Images/teriyaki-salmon-fried-rice.jpg" alt="">
-                    <p>This winning recipe is sure to please! Simple and easy to prepare and does not require a lengthy marinade! Loved my kids and adults alike it is absoultely delcious and easy to pair with a variety of side dishes. </p>
+                    <p>This winning recipe is sure to please! Simple and easy to prepare and does not require a lengthy marinade! Loved by kids and adults alike it is absoultely delcious and easy to pair with a variety of side dishes. </p>
                     <ul class="list-inline">
                       <li>1 lb raw wild salmon filets</li>
                       <li>3 tablespoons teriyaki sauce</li>
@@ -230,9 +230,9 @@
                   <div class="modal-body">
                     <!-- Recipe Details Go Here -->
                     <h2 class="text-uppercase">Cajun Chicken & Shrimp</h2>
-                    <p class="item-intro text-muted">Lorem ipsum dolor sit amet consectetur.</p>
+                    <p class="item-intro text-muted">A savory and spicy surf and turf home run!</p>
                     <img class="img-fluid d-block mx-auto" src="http://fridge-o-matic.com/Images/cajun-chicken-and-shrimp.jpg" alt="">
-                    <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Est blanditiis dolorem culpa incidunt minus dignissimos deserunt repellat aperiam quasi sunt officia expedita beatae cupiditate, maiores repudiandae, nostrum, reiciendis facere nemo!</p>
+                    <p>The cajun seasoning leaves your tastbuds wanting more. Every bite packs a punch, with this savory and spicy seasoning amplifys the shrimp and chicken. Can be paired nicely with rice or add it to a quesadilla. </p>
                     <ul class="list-inline">
                       <li>1 tablespoon olive oil</li>
                       <li>1 tablespoon garlic, minced</li>
