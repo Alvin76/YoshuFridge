@@ -61,11 +61,14 @@
   </header>
 
   <?php 
-        while($rows=mysql_fetch_assoc($result))
+        while($rows = mysql_fetch_assoc($result))
         {
-            echo $rows['item_id'] . "<br>";
-        }
+    ?>
+            <?php echo $rows['item_name'];?>
+        
 
+  <?php
+        }
   ?>
     
 
