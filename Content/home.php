@@ -351,7 +351,7 @@
             <div class="col-lg-8 mx-auto">
               <div class="modal-body">
                 <!-- Recipe Details Go Here -->
-                <h2 class="text-uppercase">Cajun Chickn & Shrimp</h2>
+                <h2 class="text-uppercase">Cajun Chicken & Shrimp</h2>
                 <p class="item-intro text-muted">Lorem ipsum dolor sit amet consectetur.</p>
                 <img class="img-fluid d-block mx-auto" src="http://fridge-o-matic.com/Images/cajun-chicken-and-shrimp.jpg" alt="">
                 <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Est blanditiis dolorem culpa incidunt minus dignissimos deserunt repellat aperiam quasi sunt officia expedita beatae cupiditate, maiores repudiandae, nostrum, reiciendis facere nemo!</p>
