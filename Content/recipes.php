@@ -225,6 +225,7 @@
                       <li>Chicken</li>
                       <li>Shrimp</li>
                       <li>Rice</li>
+                      <li>Cajun Seasoning</li>
                     </ul>
                     <button class="btn btn-primary" data-dismiss="modal" type="button">
                       <i class="fas fa-times"></i>

@@ -125,7 +125,7 @@ $username= "kbzersix_System";
 $password = "H$3^*#YjeR.W";
 //local host?
 
-$portnumber = 21
+$portnumber = 21;
 //trying to create connection i think
 $conn = new mysqli($servername, $username, $password);
 
