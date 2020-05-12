@@ -1,7 +1,9 @@
 <?php
 //tag to connect to  connection file ex 'includes/filename.php';
 
-    include_once 'PHP/functions.php';
+    include_once ('PHP/functions.php');
+    $query = "SELECT  *  from inventory";
+    $result = mysqli_query($query);
     ?>
 
 <!DOCTYPE html>
@@ -58,19 +60,15 @@
     </div>
   </header>
 
-    <?php
-        //* represents all and table name is inventory
-        $sql = "SELECT * FROM inventory;"; 
-        $result = mysqli_query($conn, $sql);
-        $resultView = mysqli_num_rows($result);
-
-        if ($resultView > 0){
-            while ($row = mysqli_fetch_assoc(result)) {
-                echo $row['item_id'] . "<br>";
-                
-            }
+  <?php 
+        while($rows=mysql_fetch_assoc($result))
+        {
+            echo $rows['item_id'] . "<br>";
         }
+
   ?>
+    
+
 
   <section id="fridge">
     <div class="container">
@@ -80,19 +78,7 @@
         <!--Add a serch call here for items in the database-->
         <div class="FridgeSearch">
           <p>add a item here</p>
-            <?php
-        //* represents all and table name is inventory
-        $sql = "SELECT * FROM inventory;"; 
-        $result = mysqli_query($conn, $sql);
-        $resultView = mysqli_num_rows($result);
-
-        if ($resultView > 0){
-            while ($row = mysqli_fetch_assoc($result)) {
-                echo $row['item_id'] . "<br>";
-                
-            }
-        }
-  ?>
+       
           <input type="text" placeholder="Search..">
         </div>
         <p>bacon</p><button type="button">+add</button><button type="button">-remove</button>
