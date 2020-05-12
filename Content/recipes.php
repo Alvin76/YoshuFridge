@@ -150,13 +150,24 @@
                   <div class="modal-body">
                     <!-- Recipe Details Go Here -->
                     <h2 class="text-uppercase">Teriyaki Salmon Fried Rice</h2>
-                    <p class="item-intro text-muted">Lorem ipsum dolor sit amet consectetur.</p>
+                    <p class="item-intro text-muted">This is a winner winner SALMON dinner!.</p>
                     <img class="img-fluid d-block mx-auto" src="http://fridge-o-matic.com/Images/teriyaki-salmon-fried-rice.jpg" alt="">
-                    <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Est blanditiis dolorem culpa incidunt minus dignissimos deserunt repellat aperiam quasi sunt officia expedita beatae cupiditate, maiores repudiandae, nostrum, reiciendis facere nemo!</p>
+                    <p>This winning recipe is sure to please! Simple and easy to prepare and does not require a lengthy marinade! Loved my kids and adults alike it is absoultely delcious and easy to pair with a variety of side dishes. </p>
                     <ul class="list-inline">
-                      <li>Rice</li>
-                      <li>Salmon</li>
-                      <li>Sauce</li>
+                      <li>1 lb raw wild salmon filets</li>
+                      <li>3 tablespoons teriyaki sauce</li>
+                      <li>spray avocado oil (or olive oil)</li>
+                       <li>4 eggs, lightly beaten</li>
+                      <li>1 tablespoon avocado oil</li>
+                      <li>1 tablespoon garlic, minced</li>
+                       <li>1 tablespoon fresh ginger</li>
+                      <li>1/3 cup finely chopped green onion</li>
+                      <li>3 cups cooked (cooled) brown rice</li>
+                       <li>1 (red) bell pepper, diced</li>
+                      <li>1 cup frozen peas & carrots</li>
+                      <li>3 tablespoons low sodium soy sauce</li>
+                       <li>2 teaspoons sesame oil (optional but recommended)</li>
+                     
                     </ul>
                     <button class="btn btn-primary" data-dismiss="modal" type="button">
                       <i class="fas fa-times"></i>
@@ -184,9 +195,9 @@
                   <div class="modal-body">
                     <!-- Recipe Details Go Here -->
                     <h2 class="text-uppercase">Black Bean Quesadilla</h2>
-                    <p class="item-intro text-muted">Lorem ipsum dolor sit amet consectetur.</p>
+                    <p class="item-intro text-muted">Yummy veggie qusadillas big on flavor! </p>
                     <img class="img-fluid d-block mx-auto" src="http://fridge-o-matic.com/Images/black-bean-quesadilla.jpg" alt="">
-                    <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Est blanditiis dolorem culpa incidunt minus dignissimos deserunt repellat aperiam quasi sunt officia expedita beatae cupiditate, maiores repudiandae, nostrum, reiciendis facere nemo!</p>
+                    <p>Easy to make a perfect to store! They are suprisingly filling and packed full of flavor. </p>
                     <ul class="list-inline">
                       <li>Spray avacado oil</li>
                       <li>1 green bell pepper, sliced</li>
