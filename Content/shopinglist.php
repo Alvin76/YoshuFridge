@@ -1,3 +1,9 @@
+<?php
+//tag to connect to  connection file ex 'includes/filename.php';
+
+    include_once 'PHP/functions.php';
+    ?>
+
 <!DOCTYPE html>
 <html lang="en">
 
@@ -51,6 +57,22 @@
       <p class="lead">Will have some sort of wheel with clickable images for getting to other pages; potentially a carousel, we will discuss it</p>
     </div>
   </header>
+
+    <?php
+        //* represents all and table name is inventory
+        $sql = "SELECT * FROM inventory;"; 
+        $result = mysqli_query($conn, $sql);
+        $resultView = mysqli_num_rows($result);
+
+        if ($resultView > 0){
+            while ($row = mysqli_fetch_assoc(result)) {
+                echo $row['item_id'];
+                
+            }
+        }
+
+  
+  ?>
 
   <section id="fridge">
     <div class="container">
