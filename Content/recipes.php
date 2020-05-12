@@ -51,54 +51,38 @@
               <a href="#"><img class="card-img-top" src="../Images/teriyaki-salmon-fried-rice.jpg" alt=""></a>
               <div class="card-body">
                 <h4 class="card-title">
-                  <a class="collapsed d-block" data-toggle="collapse" href="#collapse-collapsed" aria-expanded="true" aria-controls="collapse-collapsed" id="heading-collapsed">
+                  <a class="portfolio-link" data-toggle="modal" href="#portfolioModal1">
                     Teriyaki Salmon Fried Rice
                   </a>
                 </h4>
-                <div id="collapse-collapsed" class="collapse" aria-labelledby="heading-collapsed">
-                  <h5> A Quick Fried Rice Dish </h5>
-                  <p class="card-text">
-                    <!-- Button trigger modal -->
-                    <button type="button" class="btn btn-primary" data-toggle="modal" data-target="#exampleModalLong">
-                      Ingredients
-                    </button>
+              </div>
+              <div class="card-footer">
+                <span class="starRating">
+                  <input id="rating5" type="radio" name="rating" value="5">
+                  <label for="rating5">5</label>
+                  <input id="rating4" type="radio" name="rating" value="4">
+                  <label for="rating4">4</label>
+                  <input id="rating3" type="radio" name="rating" value="3" checked>
+                  <label for="rating3">3</label>
+                  <input id="rating2" type="radio" name="rating" value="2">
+                  <label for="rating2">2</label>
+                  <input id="rating1" type="radio" name="rating" value="1">
+                  <label for="rating1">1</label>
+                </span>
+              </div>
+            </div>
+          </div>
 
-                    <!-- Modal -->
-                    <div class="modal fade" id="exampleModalLong" tabindex="-1" role="dialog" aria-labelledby="exampleModalLongTitle" aria-hidden="true">
-                      <div class="modal-dialog" role="document">
-                        <div class="modal-content">
-                          <div class="modal-header">
-                            <h5 class="modal-title" id="exampleModalLongTitle">Ingredients</h5>
-                            <button type="button" class="close" data-dismiss="modal" aria-label="Close">
-                              <span aria-hidden="true">&times;</span>
-                            </button>
-                          </div>
-                          <div class="modal-body text-left">
-                            <ul>
-                              <li>1 lb raw wild salmon filets</li>
-                              <li>3 tablespoons teriyaki sauce</li>
-                              <li> spray avocado oil (or olive oil)</li>
-                              <li> 4 eggs, lightly beaten</li>
-                              <li> 1 tablespoon avocado oil</li>
-                              <li> 1 tablespoon garlic, minced</li>
-                              <li> 1 tablespoon fresh ginger</li>
-                              <li> 1/3 cup finely chopped green onion</li>
-                              <li>3 cups cooked (cooled) brown rice (TIP: best if leftover from a day or 2 prior)</li>
-                              <li> 1 (red) bell pepper, diced</li>
-                              <li> 1 cup frozen peas & carrots</li>
-                              <li>3 tablespoons low sodium soy sauce</li>
-                              <li>2 teaspoons sesame oil (optional but recommended)</li>
-                            </ul>
-                          </div>
-                          <div class="modal-footer">
-                            <button type="button" class="btn btn-secondary" data-dismiss="modal">Close</button>
-                          </div>
-                        </div>
-                      </div>
-                    </div>
-                  </p>
+          <div class="col-lg-12 text-center">
+            <div class="card h-100">
+                <a href="#"><img class="card-img-top" src="../Images/black-bean-quesadilla.jpg" alt=""></a>
+                <div class="card-body">
+                  <h4 class="card-title">
+                    <a class="portfolio-link" data-toggle="modal" href="#portfolioModal2">
+                      Black Bean Quesadilla
+                    </a>
+                  </h4>
                 </div>
-              </div>
               <div class="card-footer">
                 <span class="starRating">
                   <input id="rating5" type="radio" name="rating" value="5">
@@ -118,117 +102,14 @@
 
           <div class="col-lg-12 text-center">
             <div class="card h-100">
-              <a href="#"><img class="card-img-top" src="http://placehold.it/700x400" alt=""></a>
-              <div class="card-body">
-                <h4 class="card-title">
-                  <a href="#">Item Two</a>
-                </h4>
-                <p class="card-text">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Amet numquam aspernatur! Lorem ipsum dolor sit amet.</p>
-              </div>
-              <div class="card-footer">
-                <span class="starRating">
-                  <input id="rating5" type="radio" name="rating" value="5">
-                  <label for="rating5">5</label>
-                  <input id="rating4" type="radio" name="rating" value="4">
-                  <label for="rating4">4</label>
-                  <input id="rating3" type="radio" name="rating" value="3" checked>
-                  <label for="rating3">3</label>
-                  <input id="rating2" type="radio" name="rating" value="2">
-                  <label for="rating2">2</label>
-                  <input id="rating1" type="radio" name="rating" value="1">
-                  <label for="rating1">1</label>
-                </span>
-              </div>
-            </div>
-          </div>
-
-          <div class="col-lg-12 text-center">
-            <div class="card h-100">
-              <a href="#"><img class="card-img-top" src="http://placehold.it/700x400" alt=""></a>
-              <div class="card-body">
-                <h4 class="card-title">
-                  <a href="#">Item Three</a>
-                </h4>
-                <p class="card-text">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Amet numquam aspernatur!</p>
-              </div>
-              <div class="card-footer">
-                <span class="starRating">
-                  <input id="rating5" type="radio" name="rating" value="5">
-                  <label for="rating5">5</label>
-                  <input id="rating4" type="radio" name="rating" value="4">
-                  <label for="rating4">4</label>
-                  <input id="rating3" type="radio" name="rating" value="3" checked>
-                  <label for="rating3">3</label>
-                  <input id="rating2" type="radio" name="rating" value="2">
-                  <label for="rating2">2</label>
-                  <input id="rating1" type="radio" name="rating" value="1">
-                  <label for="rating1">1</label>
-                </span>
-              </div>
-            </div>
-          </div>
-
-          <div class="col-lg-12 text-center">
-            <div class="card h-100">
-              <a href="#"><img class="card-img-top" src="http://placehold.it/700x400" alt=""></a>
-              <div class="card-body">
-                <h4 class="card-title">
-                  <a href="#">Item Four</a>
-                </h4>
-                <p class="card-text">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Amet numquam aspernatur!</p>
-              </div>
-              <div class="card-footer">
-                <span class="starRating">
-                  <input id="rating5" type="radio" name="rating" value="5">
-                  <label for="rating5">5</label>
-                  <input id="rating4" type="radio" name="rating" value="4">
-                  <label for="rating4">4</label>
-                  <input id="rating3" type="radio" name="rating" value="3" checked>
-                  <label for="rating3">3</label>
-                  <input id="rating2" type="radio" name="rating" value="2">
-                  <label for="rating2">2</label>
-                  <input id="rating1" type="radio" name="rating" value="1">
-                  <label for="rating1">1</label>
-                </span>
-              </div>
-            </div>
-          </div>
-
-          <div class="col-lg-12 text-center">
-            <div class="card h-100">
-              <a href="#"><img class="card-img-top" src="http://placehold.it/700x400" alt=""></a>
-              <div class="card-body">
-                <h4 class="card-title">
-                  <a href="#">Item Five</a>
-                </h4>
-                <p class="card-text">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Amet numquam aspernatur! Lorem ipsum dolor sit amet.</p>
-              </div>
-              <div class="card-footer">
-                <span class="starRating">
-                  <input id="rating5" type="radio" name="rating" value="5">
-                  <label for="rating5">5</label>
-                  <input id="rating4" type="radio" name="rating" value="4">
-                  <label for="rating4">4</label>
-                  <input id="rating3" type="radio" name="rating" value="3" checked>
-                  <label for="rating3">3</label>
-                  <input id="rating2" type="radio" name="rating" value="2">
-                  <label for="rating2">2</label>
-                  <input id="rating1" type="radio" name="rating" value="1">
-                  <label for="rating1">1</label>
-                </span>
-              </div>
-            </div>
-          </div>
-
-          <div class="col-lg-12 text-center">
-            <div class="card h-100">
-              <a href="#"><img class="card-img-top" src="http://placehold.it/700x400" alt=""></a>
-              <div class="card-body">
-                <h4 class="card-title">
-                  <a href="#">Item Six</a>
-                </h4>
-                <p class="card-text">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Amet numquam aspernatur!</p>
-              </div>
+                <a href="#"><img class="card-img-top" src="../Images/cajun-chicken-and-shrimp.jpg" alt=""></a>
+                <div class="card-body">
+                  <h4 class="card-title">
+                    <a class="portfolio-link" data-toggle="modal" href="#portfolioModal3">
+                      Cajun Chicken & Rice
+                    </a>
+                  </h4>
+                </div>
               <div class="card-footer">
                 <span class="starRating">
                   <input id="rating5" type="radio" name="rating" value="5">
@@ -251,11 +132,115 @@
 
       </div>
       <!-- /.col-lg-12 -->
+
+      <!-- Recipe Modals -->
+
+      <!-- Modal 1 -->
+      <div class="portfolio-modal modal fade" id="portfolioModal1" tabindex="-1" role="dialog" aria-hidden="true">
+        <div class="modal-dialog">
+          <div class="modal-content">
+            <div class="close-modal" data-dismiss="modal">
+              <div class="lr">
+                <div class="rl"></div>
+              </div>
+            </div>
+            <div class="container">
+              <div class="row">
+                <div class="col-lg-8 mx-auto">
+                  <div class="modal-body">
+                    <!-- Recipe Details Go Here -->
+                    <h2 class="text-uppercase">Teriyaki Salmon Fried Rice</h2>
+                    <p class="item-intro text-muted">Lorem ipsum dolor sit amet consectetur.</p>
+                    <img class="img-fluid d-block mx-auto" src="http://fridge-o-matic.com/Images/teriyaki-salmon-fried-rice.jpg" alt="">
+                    <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Est blanditiis dolorem culpa incidunt minus dignissimos deserunt repellat aperiam quasi sunt officia expedita beatae cupiditate, maiores repudiandae, nostrum, reiciendis facere nemo!</p>
+                    <ul class="list-inline">
+                      <li>Rice</li>
+                      <li>Salmon</li>
+                      <li>Sauce</li>
+                    </ul>
+                    <button class="btn btn-primary" data-dismiss="modal" type="button">
+                      <i class="fas fa-times"></i>
+                      Close</button>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+
+      <!-- Modal 2 -->
+      <div class="portfolio-modal modal fade" id="portfolioModal2" tabindex="-1" role="dialog" aria-hidden="true">
+        <div class="modal-dialog">
+          <div class="modal-content">
+            <div class="close-modal" data-dismiss="modal">
+              <div class="lr">
+                <div class="rl"></div>
+              </div>
+            </div>
+            <div class="container">
+              <div class="row">
+                <div class="col-lg-8 mx-auto">
+                  <div class="modal-body">
+                    <!-- Recipe Details Go Here -->
+                    <h2 class="text-uppercase">Black Bean Quesadilla</h2>
+                    <p class="item-intro text-muted">Lorem ipsum dolor sit amet consectetur.</p>
+                    <img class="img-fluid d-block mx-auto" src="http://fridge-o-matic.com/Images/black-bean-quesadilla.jpg" alt="">
+                    <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Est blanditiis dolorem culpa incidunt minus dignissimos deserunt repellat aperiam quasi sunt officia expedita beatae cupiditate, maiores repudiandae, nostrum, reiciendis facere nemo!</p>
+                    <ul class="list-inline">
+                      <li>Black Beans</li>
+                      <li>Cheese</li>
+                      <li>Sauce</li>
+                    </ul>
+                    <button class="btn btn-primary" data-dismiss="modal" type="button">
+                      <i class="fas fa-times"></i>
+                      Close</button>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+
+      <!-- Modal 3 -->
+      <div class="portfolio-modal modal fade" id="portfolioModal3" tabindex="-1" role="dialog" aria-hidden="true">
+        <div class="modal-dialog">
+          <div class="modal-content">
+            <div class="close-modal" data-dismiss="modal">
+              <div class="lr">
+                <div class="rl"></div>
+              </div>
+            </div>
+            <div class="container">
+              <div class="row">
+                <div class="col-lg-8 mx-auto">
+                  <div class="modal-body">
+                    <!-- Recipe Details Go Here -->
+                    <h2 class="text-uppercase">Cajun Chickn & Shrimp</h2>
+                    <p class="item-intro text-muted">Lorem ipsum dolor sit amet consectetur.</p>
+                    <img class="img-fluid d-block mx-auto" src="http://fridge-o-matic.com/Images/cajun-chicken-and-shrimp.jpg" alt="">
+                    <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Est blanditiis dolorem culpa incidunt minus dignissimos deserunt repellat aperiam quasi sunt officia expedita beatae cupiditate, maiores repudiandae, nostrum, reiciendis facere nemo!</p>
+                    <ul class="list-inline">
+                      <li>Chicken</li>
+                      <li>Shrimp</li>
+                      <li>Rice</li>
+                    </ul>
+                    <button class="btn btn-primary" data-dismiss="modal" type="button">
+                      <i class="fas fa-times"></i>
+                      Close</button>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+
+
   </body>
 
-
-
-  <!-- Footer -->
+   <!-- Footer -->
   <footer class="footer">
     <div class="container">
       <div class="row align-items-center">
@@ -284,6 +269,7 @@
       </div>
     </div>
   </footer>
+
 
 
 

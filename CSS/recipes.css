@@ -1,8 +1,3 @@
-body {
-  overflow-x: hidden;
-  font-family: 'Roboto Slab', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol', 'Noto Color Emoji';
-}
-
 
 p {
   line-height: 1.75;
@@ -14,6 +9,16 @@ a {
 
 a:hover {
   color: #498C88;
+}
+
+#fridge
+{
+  background: #CFE4E2;
+}
+
+#pantry
+{
+  background: #CFE4E2;
 }
 
 .text-primary {
