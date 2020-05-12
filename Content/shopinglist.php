@@ -53,7 +53,7 @@
 
   <header class="bg-primary text-white">
     <div class="container text-center">
-      <h1>This Section</h1>
+      <h1>This Section nnnnnnnnn</h1>
       <p class="lead">Will have some sort of wheel with clickable images for getting to other pages; potentially a carousel, we will discuss it</p>
     </div>
   </header>
@@ -66,12 +66,10 @@
 
         if ($resultView > 0){
             while ($row = mysqli_fetch_assoc(result)) {
-                echo $row['item_id'];
+                echo $row['item_id'] . "<br>";
                 
             }
         }
-
-  
   ?>
 
   <section id="fridge">
@@ -82,6 +80,19 @@
         <!--Add a serch call here for items in the database-->
         <div class="FridgeSearch">
           <p>add a item here</p>
+            <?php
+        //* represents all and table name is inventory
+        $sql = "SELECT * FROM inventory;"; 
+        $result = mysqli_query($conn, $sql);
+        $resultView = mysqli_num_rows($result);
+
+        if ($resultView > 0){
+            while ($row = mysqli_fetch_assoc($result)) {
+                echo $row['item_id'] . "<br>";
+                
+            }
+        }
+  ?>
           <input type="text" placeholder="Search..">
         </div>
         <p>bacon</p><button type="button">+add</button><button type="button">-remove</button>
