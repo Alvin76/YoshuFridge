@@ -67,6 +67,30 @@
               <tr>
                   <td>Red Bell Pepper</td>
               </tr>
+              <tr>
+                  <td>Milk</td>
+              </tr>
+              <tr>
+                  <td>Almond Milk</td>
+              </tr>
+              <tr>
+                  <td>Cottage Cheese</td>
+              </tr>
+              <tr>
+                  <td>Baby Carrots</td>
+              </tr>
+              <tr>
+                  <td>Sour Cream</td>
+              </tr>
+              <tr>
+                  <td>Grapes</td>
+              </tr>
+              <tr>
+                  <td>Watermelon</td>
+              </tr>
+              <tr>
+                  <td>Diet Coke</td>
+              </tr>
           </table>
     <button type="button">+add</button><button type="button">-remove</button>
         </div>
@@ -87,6 +111,21 @@
               <tr>
                   <td>Frozen Carrots</td>
               </tr>
+              <tr>
+                  <td>Ice Cream</td>
+              </tr>
+              <tr>
+                  <td>Ground Beef</td>
+              </tr>
+              <tr>
+                  <td>Pork Loin</td>
+              </tr>
+              <tr>
+                  <td>Frozen Blueberries</td>
+              </tr>
+              <tr>
+                  <td>Tyson Chicken Tenders</td>
+              </tr>
           </table>
       <button type="button">+add</button><button type="button">-remove</button>
         </div>
@@ -106,6 +145,24 @@
               </tr>
               <tr>
                   <td>Minced Garlic</td>
+              </tr>
+              <tr>
+                  <td>Cinnamon</td>
+              </tr>
+              <tr>
+                  <td>Protein Powder</td>
+              </tr>
+              <tr>
+                  <td>Jasmine Rice</td>
+              </tr>
+              <tr>
+                  <td>Tuna</td>
+              </tr>
+              <tr>
+                  <td>Ramen</td>
+              </tr>
+              <tr>
+                  <td>Couscous</td>
               </tr>
           </table>
 <button type="button">+add</button><button type="button">-remove</button>
