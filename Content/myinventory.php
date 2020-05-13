@@ -60,12 +60,15 @@
         <div class="col-lg-12 mx-auto">
             <h2 class="section-heading text-uppercase">Fridge</h2>
           <h3 class="section-subheading text-muted">Your Refrigerator!</h3>
-          <!--Add a serch call here for items in the database-->
-          <div class="FridgeSearch">
-            <p>add a item here</p>
-            <input type="text" placeholder="Search..">
-          </div>
-          <p>bacon</p><button type="button">+add</button><button type="button">-remove</button>
+          <table>
+              <tr>
+                  <td>Eggs</td>
+              </tr>
+              <tr>
+                  <td>Red Bell Pepper</td>
+              </tr>
+          </table>
+    <button type="button">+add</button><button type="button">-remove</button>
         </div>
       </div>
     </div>
@@ -77,11 +80,15 @@
         <div class="col-lg-12 mx-auto">
             <h2 class="section-heading text-uppercase">Freezer</h2>
           <h3 class="section-subheading text-muted">Your Freezer!</h3>
-          <div class="FrezerSearch">
-            <p>add a item here</p>
-            <input type="text" placeholder="Search..">
-          </div>
-          <p>chicken</p><button type="button">+add</button><button type="button">-remove</button>
+          <table>
+              <tr>
+                  <td>Frozen Peas</td>
+              </tr>
+              <tr>
+                  <td>Frozen Carrots</td>
+              </tr>
+          </table>
+      <button type="button">+add</button><button type="button">-remove</button>
         </div>
       </div>
     </div>
@@ -93,12 +100,15 @@
         <div class="col-lg-12 mx-auto">
          <h2 class="section-heading text-uppercase">Pantry</h2>
           <h3 class="section-subheading text-muted">Your Pantry!</h3>
-          <div class="PantrySearch">
-            <p>add a item here</p>
-
-            <input type="text" placeholder="Search..">
-          </div>
-          <p>rice</p><button type="button">+add</button><button type="button">-remove</button>
+          <table>
+              <tr>
+                  <td>Avocado Oil</td>
+              </tr>
+              <tr>
+                  <td>Minced Garlic</td>
+              </tr>
+          </table>
+<button type="button">+add</button><button type="button">-remove</button>
         </div>
       </div>
     </div>
@@ -117,14 +127,19 @@
             <th>Pantry</th>
         </tr>
         <tr>
-            <td>Butter</td>
-            <td>Chicken Breast</td>
-            <td>Cinnamon</td>
+            <td>Green Onion</td>
+            <td>Salmon Filets</td>
+            <td>Teriyaki Sauce</td>
         </tr>
         <tr>
-            <td>Pepperoni</td>
-            <td>Tilapia</td>
-            <td>Turmeric</td>
+            <td>Fresh Ginger</td>
+            <td> </td>
+            <td>Soy Sauce</td>
+        </tr>
+        <tr>
+            <td> </td>
+            <td> </td>
+            <td>Sesame Oil</td>
         </tr>
     </table>
           <button type="button">+add</button><button type="button">-remove</button>
