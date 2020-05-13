@@ -167,8 +167,11 @@
                       <li>1 cup frozen peas & carrots</li>
                       <li>3 tablespoons low sodium soy sauce</li>
                        <li>2 teaspoons sesame oil (optional but recommended)</li>
-                     
+
                     </ul>
+
+                       <a href="myinventory.php"><button class="btn btn-primary"type="button">Compare to Inventory</button></a>
+                       
                     <button class="btn btn-primary" data-dismiss="modal" type="button">
                       <i class="fas fa-times"></i>
                       Close</button>
