@@ -1,7 +1,7 @@
 # YoshuFridge aka Fridge-O-matic
 
-## WHAT 
- Wouldn't it be grand to have an app the records your personal fridge inbentory and helps you optimize it as you use up your ingredients?
+## Goal
+ Wouldn't it be grand to have an app the records your personal fridge inventory and helps you optimize it as you use up your ingredients?
  Well that is what Fridge-o-matic plans to do! Help you save time, increase your cullinary creativivty and prevent food waste!
 
 
@@ -13,7 +13,7 @@ http://yoshu-project.herokuapp.com/Content/home.php
 
 
 ~~~~~~~~
-Development to date:
+ Development to date:
 
 -User interface
 -Easy Naviagation
@@ -23,14 +23,15 @@ Development to date:
 
 
 ~~~~~~~~
+
+
+~~~~~~~~
 Future Development:
 
 -Login/User Information
 -More advanced shopping list creation
 -Implementation of DB
 -Searchable Recipes
-
-
 
 ~~~~~~~~
 
